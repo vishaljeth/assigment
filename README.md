@@ -19,3 +19,9 @@ there are three types of vcs:-
 3. Distributed Version Control System :- Every developer has a full copy of the project with history. Changes can be pushed/pulled to/from others.
 
 
+# git branches?
+A branch is like a separate workspace where you can make changes without disturbing the main code.
+
+
+
+
